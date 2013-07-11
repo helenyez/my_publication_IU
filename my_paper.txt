@@ -1,4 +1,4 @@
-Author: Helen	
+Author: Helen, John	
 Title: My paper
 
 Abstract:
